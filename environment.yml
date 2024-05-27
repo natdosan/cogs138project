@@ -1,0 +1,16 @@
+name: final_project
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - scipy
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - plotly
+  - gap-statistic
+  - pip
+  - pip:
+    - gap-statistic
