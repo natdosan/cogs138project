@@ -10,7 +10,7 @@ dependencies:
   - scikit-learn
   - matplotlib
   - plotly
-  - gap-statistic
   - pip
-  - pip:
-    - gap-statistic
+  - gap-statistic
+  - pillow
+  - opencv-python

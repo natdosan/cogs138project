@@ -1,0 +1,9 @@
+scipy
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+# gap-statistic
+pillow
+opencv-python
