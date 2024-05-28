@@ -1,3 +1,7 @@
+"""
+    Author(s): Nathaniel del Rosario
+"""
+
 # import essentials
 import scipy
 import pandas as pd
