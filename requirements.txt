@@ -7,3 +7,4 @@ plotly
 # gap-statistic
 pillow
 opencv-python
+tensorflow
